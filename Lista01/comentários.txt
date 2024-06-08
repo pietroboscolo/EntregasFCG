@@ -1,0 +1,8 @@
+aluno: Pietro Alberto Boscolo
+
+ex06
+não entendi como fazer a estrela
+
+ex09
+Tive dificuldade em decidir como preencher os line loops internos, então decidi por deixá-los sem cor.
+criei uma função única para a configuração dos VAOs. cada parte está separada em uma função própria.
